@@ -19,7 +19,7 @@ Cancer, a complex and fatal disease, is the result of combined genetic and epige
 
 -Visualization of the direct regulations
 
-Version: 0.99.0
+Version: 0.99.6
 
 Author: Y. Tong, J. Zhang*
 
