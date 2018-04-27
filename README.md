@@ -21,6 +21,8 @@ Cancer, a complex and fatal disease, is the result of combined genetic and epige
 
 Version: 0.99.6
 
+License: CC-BY-4.0
+
 Author: Y. Tong, J. Zhang*
 
 Facilities: http://cis.hku.hk/ Zhang Lab, School of Biological Sciences, The University of Hong Kong
