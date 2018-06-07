@@ -32,15 +32,16 @@ Maintainer: Y.Tong, J. Zhang tongyin9002@gmail.com
 
 # Installation: 
 
-To install MICMIC from GitHub you need devtools package:
+1. To install MICMIC from GitHub you need devtools package:
 
 To install devtools:
 
 > install.packages("devtools")
 
-To install MICMIC:
+2. To install MICMIC:
 
-download the source package, then
+download the zip file "MICMIC_0.99.6.tar.gz" of source package in the current directory, then
+
 > install.packages("MICMIC_0.99.6.tar.gz",repos=NULL)
 
 
